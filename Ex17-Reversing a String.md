@@ -16,8 +16,8 @@ To write a Java program that reverses an input string using a stack, without usi
 ```java
 /*
 Program to reverse an input string using a stack
-Developed by: ANBU VINOTHA S
-RegisterNumber: 212223230015
+Developed by: AATHI SAKTHI S
+RegisterNumber: 212223223001
 */
 import java.util.*;
 
